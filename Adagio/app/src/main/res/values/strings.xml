@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Adagio</string>
+    <string name="library_text">Library Collection</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="new_up_coming">Artists On the Rise</string>
+    <string name="tempo_text">Tempo Speed</string>
+    <string name="artists_text">Artists</string>
+    <string name="genre_text">Genre</string>
+    <string name="title_activity_on_the_rise">on_the_rise</string>
+    <string name="highlighted_artist">Highlighted Artist</string>
+    <string name="biography">Bio</string>
+    <string name="hit_song">Hit Song</string>
+    <string name="category_music_library">Library</string>
+    <string name="category_on_the_rise">On the Rise</string>
+    <string name="category_play">Play Screen</string>
+    <string name="r_kelly">Kelly, R</string>
+    <string name="country">Country</string>
+    <string name="hip_hop">Hip-Hop</string>
+    <string name="mars_bruno">Bruno Mars</string>
+    <string name="technical_hurdle">Technical Hurdle</string>
+    <string name="hurdle_play">Technical hurdle for this activity is to figure out how to play the song. I think the class I am looking for is the MediaPlayer API. By calling the methods start(), stop(), pause (). In addition to the MediaPlayer class, I will need to utilize another class called MediaController which contains the necessary buttons for Play/Pause and fast-forward/rewind. I think with these two I can achieve the functionality Iam looking for.</string>
+    <string name="hurdle_rise">I think the main hurdle of this activity is how and where to stream the information I need which is the new up coming artists, song and biography. The biography and artists might be handled in manually whereas the song will be streamed from SoundCloud API. </string>
+    <string name="explanation_main">At the start of the app, the user starts off in the main menu section. This directs the user into 3 different activities: The library collection (of the user), recent activity (most recent played music), and the On the rise section (gives the user insight on new artists around the world).</string>
+    <string name="explanation_library">Once user presses the Library section, he/she will be directed to this activity where the user can access his/her music. Library Collection is divided into activities: The artists, genre and again the recent activity. </string>
+    <string name="explanation_artist">Here the user can select his/her music by artist. Each artist will be placed in alphabetical order by last name for ease of convenience</string>
+    <string name="explanation_genre">Here the user can select his/her music by genre. Each genre will be placed in the order of the user preference.</string>
+    <string name="explanation_rise">Here the user can pique their interest by discovering new up incoming artists that are trending around the world. This section will show the picture of the new artist, their bio and their hit song.This activity would be the only  streaming section for this app</string>
+    <string name="explanation_recent">Here the user can access their music played history. Here each song, genre, artist will be on display from the most recent</string>
+    <string name="explanation_play">Here the user is music playing screen. The user will have full control of the song playing. Some controls that can be accessed are the play button, skip and previous button, and lastly the thumbs up and down. </string>
+
+</resources>
